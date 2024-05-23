@@ -1,5 +1,5 @@
 <!-- LTeX: language=es -->
-### Documentación de SLL
+### Documentación de IntCell
 La presente documentación incluye los siguientes elementos:
 - `IntCell.cpp`: Contiene la implementación de nuestra clase y sus distintos métodos.
 - `IntCell.h`: Contiene nuestra interfaz donde definimos los distintos miembros de nuestra clase.
